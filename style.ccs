@@ -1,4 +1,4 @@
 body {
-    background-color: #000; /* Черный фон */
-    color: #fff; /* Белый текст */
+    background-color: #000; 
+    color: #fff; 
 }
